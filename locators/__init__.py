@@ -1,0 +1,4 @@
+from locators.autorization import AuthtorizationLocators, AgrLocators
+from locators.registration import RegistrationLocators
+from locators.social import SocialLocators
+from locators.password_recover import PasswordRecoveryLocators
